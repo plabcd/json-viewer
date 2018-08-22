@@ -6,7 +6,7 @@ A tool for make JSON view in browser.
 ```html
 
 <link rel="stylesheet" href="json-viewer/json-viewer.css">
-<script src="path/to/jquery.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="json-viewer/json-viewer.js"></script>
 
 <div id="json-container"></div>
